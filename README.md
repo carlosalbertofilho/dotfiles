@@ -1,0 +1,1 @@
+My config to NixOS and Dot another programs
